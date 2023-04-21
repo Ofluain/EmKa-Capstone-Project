@@ -1,0 +1,35 @@
+FANDANGO YORUMLARI : 
+
+# null değerlerin olup olmadığını öğrendik su anda yok gibi görünüyor.(fandango)
+
+# "RAING" genelde 3-5 arasında ve "VOTES" 35000 oylama yapan kişi sayısı var
+
+# mesela en çok film 2015 yılında çıkmış(yayına girmiş) ve 2014 yılından sonra büyük bir atrış yani 1 yılda 455 filmlik
+
+
+# yıllara göre filmleri count yani sayım yaptırıp görselleştirdik.yani 2015 de bu kadar film yayınlandı gibi.
+en düşük neredeye yok denecek kadar yılları 2012, 1946, 2016 yılları
+
+# filmlere oy verenleri fazladan az'a doğru sıraladık ama gariplik yani bir filme 35000 kişi oy vermesi bence çok az 
+
+# null değerlere baktık fakat yoktu gibi gözküyordu ama  0 değerleri gözüküyor yani bir nevi bunlar da null gibi yorumlanabilir
+yani sadece film adı var başka herhangi bir değer yok görünürde.
+
+# null olmayan fakat 0 olan değerleri de null olarak gördüğümüz için onları da düşürdük lazım olacağını düşünmüyorum 
+
+# ne olursa olsun değerler neredeyse hep aynı çıkıyor yani 1 oy verende 5.0 almış 35000 oy verende 4-5 arası almış 
+
+
+ALL_SİTES YORUMLARI
+
+
+# şu anlık null değer gözükmüyor.
+
+# descriibe da ortalama 42000 kişi yorum yapmış
+
+# çok fazla oy alış ve IMDB si yüksek olarak verilmiş
+
+# yani yayına girmiş filmler daha fazla oy ve IMDB toplamış
+
+
+
